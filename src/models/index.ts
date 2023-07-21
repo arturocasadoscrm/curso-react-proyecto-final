@@ -4,3 +4,7 @@ export interface Cliente {
     age: number
     email: string
 }
+export interface Tiempo {
+    nombre: string
+    tiempo: number
+}
